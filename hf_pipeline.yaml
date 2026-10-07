@@ -1,0 +1,7 @@
+task: manual-image-tag-text-agreement
+model: lab-bow-v1
+revision: sokonihub-manual-tags-v1
+device: cpu
+backend: python-standard-library
+transformers_used: false
+# Describes the executed fallback, not a Hugging Face pipeline invocation.

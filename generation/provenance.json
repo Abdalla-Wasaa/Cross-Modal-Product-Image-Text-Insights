@@ -1,0 +1,10 @@
+{
+  "generator": "Stub Generator",
+  "version": "1.0.0",
+  "method": "deterministic SVG concept manually authored locally",
+  "output": "generated/concept.svg",
+  "not_a_photo_of_the_sku": true,
+  "prompt_pin": "prompt_pin.json",
+  "used_for_scoring": false,
+  "api_called": false
+}

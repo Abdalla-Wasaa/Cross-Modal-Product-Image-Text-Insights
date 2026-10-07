@@ -1,0 +1,16 @@
+{
+  "token_count": 25,
+  "covered_token_count": 21,
+  "token_coverage": 0.84,
+  "missing_vocabulary": [
+    "hand",
+    "kenyan",
+    "patterned",
+    "traditional"
+  ],
+  "fields": [
+    "title",
+    "description"
+  ],
+  "limitations": "English ASCII tokenization; no semantic or multilingual coverage; transcript excluded"
+}
