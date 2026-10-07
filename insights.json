@@ -1,0 +1,22 @@
+[
+  {
+    "sku": "KND-01",
+    "score": 0.94388,
+    "flag": false,
+    "seller_message": "The manual image tags and listing text agree at the demo threshold. Please confirm the photo and details before publishing.",
+    "transcript": "Hand woven sisal kiondo bag in navy.",
+    "transcript_source": "txt-sidecar; not Whisper"
+  },
+  {
+    "sku": "NK-99",
+    "score": 0.239046,
+    "flag": true,
+    "seller_message": "Please review the image, title and description together. Confirm brand and product details before editing; this indicator does not establish fraud."
+  },
+  {
+    "sku": "LES-02",
+    "score": 1.0,
+    "flag": false,
+    "seller_message": "The manual image tags and listing text agree at the demo threshold. Please confirm the photo and details before publishing."
+  }
+]
