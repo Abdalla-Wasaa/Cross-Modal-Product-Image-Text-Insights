@@ -1,0 +1,23 @@
+{
+  "encoder": "lab-bow-v1",
+  "version": "1.0.0",
+  "revision": "sokonihub-manual-tags-v1",
+  "transformers_used": false,
+  "pixels_encoded": false,
+  "threshold": 0.5,
+  "vocabulary": [
+    "kiondo",
+    "bag",
+    "sisal",
+    "navy",
+    "woven",
+    "nike",
+    "white",
+    "sports",
+    "training",
+    "red",
+    "leso",
+    "cloth"
+  ],
+  "method": "cosine of manual image tags versus title plus description token counts"
+}

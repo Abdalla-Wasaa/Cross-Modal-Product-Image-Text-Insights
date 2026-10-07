@@ -1,0 +1,40 @@
+[
+  {
+    "sku": "KND-01",
+    "title": "Traditional Kenyan Kiondo Bag",
+    "description": "Hand woven navy sisal kiondo bag.",
+    "image": "images/knd-01.svg",
+    "image_tags": [
+      "kiondo",
+      "bag",
+      "sisal",
+      "navy",
+      "woven"
+    ],
+    "transcript_path": "audio/knd-01.txt"
+  },
+  {
+    "sku": "NK-99",
+    "title": "Nike sports bag",
+    "description": "Nike white sports training bag.",
+    "image": "images/nk-99.svg",
+    "image_tags": [
+      "kiondo",
+      "bag",
+      "sisal",
+      "navy",
+      "woven"
+    ]
+  },
+  {
+    "sku": "LES-02",
+    "title": "Red leso cloth",
+    "description": "Red patterned leso cloth.",
+    "image": "images/les-02.svg",
+    "image_tags": [
+      "red",
+      "leso",
+      "cloth"
+    ]
+  }
+]

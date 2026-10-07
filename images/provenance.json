@@ -1,0 +1,11 @@
+{
+  "role": "synthetic evaluation fixtures, not seller photos or generation outputs",
+  "not_a_photo_of_the_sku": true,
+  "creator": "local deterministic SVG fixture construction",
+  "annotations": "manually authored image_tags; no pixel encoder or automatic face detector",
+  "files": [
+    "images/knd-01.svg",
+    "images/nk-99.svg",
+    "images/les-02.svg"
+  ]
+}
