@@ -1,0 +1,13 @@
+{
+  "mapping": {
+    "source": "Stub Generator",
+    "target": "Stable Diffusion"
+  },
+  "source_executed": true,
+  "target_executed": false,
+  "shared_prompt": "generation/generation_prompt.txt",
+  "target_model": "not selected; requires model and revision pin before execution",
+  "not_a_photo_of_the_sku": true,
+  "provenance": "generation/provenance.json",
+  "limitations": "conceptual mapping only; no equivalence or visual quality claim"
+}
